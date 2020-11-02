@@ -58,3 +58,6 @@
 
 ### 3. Выбор планируемой нагрузки
 Аналогичная twitch.tv
+
+### 4. Логическая схема базы данных (без выбора СУБД)
+![Database without DBMS](readme_images/db_no_dbms.png)  
