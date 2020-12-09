@@ -22,3 +22,8 @@ Table streams {
   unique_viewers_count int
   online_viewers_count int
 }
+
+Table transoders_links {
+  stream_key varchar [ref: - users.stream_key]
+  transoder_link varchar
+}
